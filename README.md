@@ -1,34 +1,39 @@
-# When Rationality Meets Intuition: A Research Agenda for Software Design Decision Making- Replication Package
 
+# Replication Package - When Rationality Meets Intuition: A Research Agenda for Software Design Decision Making
 
-This document describes the replication package of the paper titled ”When Rationality Meets Intuition:
+This repository package contains the replication package of the paper titled ”When Rationality Meets Intuition:
 A Research Agenda for Software Design Decision Making”.
+
+
+## Authors
 This study has been designed, developed, and reported by the following investigators:
-Carianne Pretorius (Eindhoven University of Technology, The Netherlands)
-Maryam Razavian (Eindhoven University of Technology, The Netherlands)
-Katrin Eling (Eindhoven University of Technology, The Netherlands)
-Fred Langerak (Eindhoven University of Technology, The Netherlands)
-To obtain further information, researchers who are interested may initiate contact by sending an email
-to any of the investigators listed above.
-The replication package comprises multiple files that are structured and accessible in both .xlsx and
-.csv formats. Their descriptions and links can be found below.
 
-1. Protocol
-2. Databases and results - Document Databases - Table with queried databases
-and results
-3. Codification Framework - Document Codification Framework - Describes the
-parameters of coding, their descriptions and possible values.
-4. Primary Studies - Document PrimaryStudies - Complete table of the 26
-primary studies included in the research.
-5. Data Extract - Documents PrimaryStudiesDataCoded and PrimaryStudies-
-DataNonCoded - Extracted data for all primary studies.
-6. Rationale - Documents Rationale < parametername > - Full rationale and
-classification tables for each parameter.
-1
+[Carianne Pretorius (Eindhoven University of Technology, The Netherlands)](mailto:c.pretorius@tue.nl?subject=ReplicationPackage)
+
+[Maryam Razavian (Eindhoven University of Technology, The Netherlands)](mailto:m.razavian@tue.nl?subject=ReplicationPackage)
+
+[Katrin Eling (Eindhoven University of Technology, The Netherlands)](mailto:k.eling@tue.nl?subject=ReplicationPackage)
+
+[Fred Langerak (Eindhoven University of Technology, The Netherlands)](mailto:f.langerak@tue.nl?subject=ReplicationPackage)
+
+To obtain further information, researchers who are interested may initiate contact by sending an email to any of the investigators listed above.
+
+## Documentation
 
 
+The replication package comprises multiple files that are accessible in both .xlsx and .csv formats. It is structured as given below, all files are accessible through Github. 
 
-Abstract: Context. As society’s reliance on software systems escalates over time, so too does the cost
+1.  Protocol
+2. Databases and results - Document _Databases_ - Table with queried databases and results
+3. Codification Framework - Document _Codification Framework_ - Describes the parameters of coding, their descriptions and possible values.
+4. Primary Studies - _Document PrimaryStudies_ - Complete table of the 26 primary studies included in the research. 
+5. Data Extract - Documents _PrimaryStudiesDataCoded_ and _PrimaryStudiesDataNonCoded_ - Extracted data for all primary studies.
+6. Rationale - Documents _Rationale < parametername >_ - Full rationale and classification tables for each parameter. 
+
+
+## Abstract 
+
+**Abstract:** Context. As society’s reliance on software systems escalates over time, so too does the cost
 of failure of these systems. Meanwhile, the complexity of software systems, as well as their design, is
 also ever-increasing, influenced by the proliferation of new tools and technologies to address societal
 needs. The traditional response to this complexity in software engineering and software architecture
@@ -50,5 +55,5 @@ decision-making from other domains. Conclusions. This research agenda emphasizes
 investigated to be able to develop support for the application of the two cognitive processes in software
 design decision-making.
 
-Keywords: software design, decision-making, intuition, rationality, systematic literature review, research
+**Keywords:** software design, decision-making, intuition, rationality, systematic literature review, research
 agenda
