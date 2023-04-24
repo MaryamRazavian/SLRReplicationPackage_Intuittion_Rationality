@@ -1,0 +1,41 @@
+﻿Classification,Code,"Performance Measure
+Taken from Study",Study Code,"Definition of Performance Measure
+Taken from Study",Relationship Found or Argued in Study,Rationale for Classification
+Decision Making Process Measures,DMP,"Design discourse
+quality",SE11,"The completeness, accuracy and
+relevance of design discourse","Positively related to intuition
+and rationality (mind 1 with
+mind 2)","The discourse produced by a designer about
+their own designing can be used to measure
+quality of the design decision making process
+that they enacted"
+,,Effort,SE2,The time spent in hours on cognitive and modelling tasks,"Positively related to rational
+decision making (reflective
+questions)","The time spent on tasks is a performance
+indicator on the level of the decision making
+process"
+Decision Making Outcome Measures,DO,Decision quality,SE2,Number of decisions challenged,"Positively related to rational
+decision making (reective
+questions)","The quality of a specic decision is a direct
+outcome of that decision"
+Project Outcome Measures,PO,"Software architecture
+quality",SE2,Clear identifcation of design problems.,"Positively related to rational
+decision making (reective
+questions)","The quality of the software architecture is an
+outcome of a specic project"
+,,Software quality,SE1,"The extent to which the
+(software) product satisfies the
+requirements of its customers.","Positively related to team
+cognition","The quality of the software produced by a
+project is a measure of that project outcome"
+,,"Software feature
+novelty",SE9,Features were measured based on how novel they were perceived to be compared with existing software features from applications on the market,"Positively related to
+rationality when intuition is
+high (combination)","The novelty of the software feature is a measure of the outcome of the project, as each feature was designed in a standalone manner"
+,,"User interface
+design quality",SE15,"Positively related to rational decision
+making (software design reasoning)","Usability of user interface
+design based on three
+heuristics: consistency,
+exibility, and accessibility5",The quality of the user interface is a measure of the outcome of the project
+Not Classifiable,,"SE3, SE4, SE5, SE6, SE7, SE8, SE10, SE12, SE13, SE14, SE16, SE17, SE18, SE19, SE20, SE21, SE22, SE23, SE24, SE25, SE26",,,,
