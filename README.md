@@ -1,4 +1,4 @@
-# ReplicationPackageTest
+# Overview
 This document describes the replication package of the paper titled ”When Rationality Meets Intuition:
 A Research Agenda for Software Design Decision Making”.
 This study has been designed, developed, and reported by the following investigators:
