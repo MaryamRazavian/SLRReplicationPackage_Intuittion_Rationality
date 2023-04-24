@@ -1,7 +1,7 @@
 
 # Replication Package - When Rationality Meets Intuition: A Research Agenda for Software Design Decision Making
 
-This repository package contains the replication package of the paper titled ”When Rationality Meets Intuition:
+This repository contains the replication package of the paper titled ”When Rationality Meets Intuition:
 A Research Agenda for Software Design Decision Making”.
 
 
