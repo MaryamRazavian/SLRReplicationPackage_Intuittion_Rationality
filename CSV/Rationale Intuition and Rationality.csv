@@ -1,0 +1,30 @@
+﻿Classication of Element,Code,"Cognitive or Behavioral
+Element Taken from Study",Study Code,Denition of Cognitive or Behavioral Element Taken from Study,Attributes of Intuition and Rationality from Evans (2008)
+Intuition,INT,Cognitive biases,SE21,"Fast, effortless, automatic, and associative conclusions that are not grounded in logic","Rapid, low effort, automatic, associative"
+,,Intuition,SE6,Based on feeling and experience,Experiential
+,,Naturalistic decision making,SE8,Satiscing the decision situation to allow for action,Experiential
+Rationality,RAT,Cognition,SE1,"Ability to engage in process that involves rational acquisition, processing, and dissemination of information","Controlled, high effort, logical"
+,,Compensation,SE3,Decision making strategy based on knowledge of a trade-off between the options relevant to the decision,"Controlled, high effort, sequential"
+,,Design reasoning,SE13,The reliance on logical and rational thinking to arrive at a decision through argumentation,"Controlled, high eort, logical, rule-based"
+,,,SE14,Reasoning with design,Controlled
+,,,SE15,Making justiable decisions by explicitly referring to design rationale,"Controlled, explicit, linked to language"
+,,,SE17,"Techniques for eliciting reasoning and other information about a design, usually during design discussions","Controlled, explicit, linked to language"
+,,,SE18,Reasoning with design,Controlled
+,,Rational decision making,SE4,"Decision makers have perfect information, and optimize from a number of alternatives, often in a linear and sequential fashion","Controlled, high effort, rule-based, sequential"
+,,,SE19,"A decision based on the application of reason, deliberation regarding the advantages and disadvantages of available options in light of requirements and constraints","Controlled, high effort, logical, rule-based"
+,,,SE26,"Characterized by consequential choice among alternatives, with optimizing selection process","Controlled, high effort, rule-based"
+,,Reflection,SE2,Process of considering multiple options and reducing cognitive biases in design decision making,"Controlled, rule-based, logical"
+Intuition with rationality,"INT, RAT",Intuition with rationality,SE9,Intuition and rationality together make up cognitive styles,
+,,,,"Intuition - quick, based on gut feeling","Rapid, experiential"
+,,,,"Rationality - slow, based on justication through available requirements","Slow, controlled, logical, rule-based"
+,,Mind 1 with mind 2,"SE11, SE12",The use of mind 1 and mind 2 while making decisions during the software design process,
+,,,,"Mind 1 (design reasoning) - systematically reasoning with a design context: analyzing, synthesizing and evaluating design solutions","Contextualized, controlled, rule-based"
+,,,,"Mind 2 (reection) - thinking process that allows one to evaluate, challenge and revise one’s decision, reection on one aspect of a design can spark further reection","Associative, holistic, reective"
+,,Naturalistic decision making with rational decision making ,SE5,Naturalistic- and rational decision making are used for different types of decisions; which is used depends on how much problem space exploration is required,
+,,,,"Naturalistic decision making - past situations are assessed and matched with the current situation through singular evaluation, in order to come to a sucient rather than optimal solution","Associative, experiential, low effort,
+pragmatic"
+,,,,Rational decision making - aims to select the optimal solution in a systematic manner based on all alternatives and relevant criteria,"Controlled, high-eort, rule-based"
+,,,"SE22, SE24 SE25",The use of dierent elements of naturalistic decision making and rational decision making in each decision making process; which combination is used depends on the structure of the problem,
+,,,,"Naturalistic decision making - type of decision making that emerges in chaotic situations, embodies fast reactions to changes, can cope with ambiguity, relies on situation assessment, resolved by knowledgeable decision makers, and utilizes satiscing as opposed to optimizing behaviors","Associative, contextualized, experiential, low effort, rapid"
+,,,,Rational decision making - decision making involving the logical application of rules to mathematically compute optimal decision among decision alternatives,"Controlled, high effort, rule-based"
+Not classifiable,,"SE7, SE10, SE16, SE23",,,
