@@ -26,8 +26,8 @@ The replication package comprises multiple files that are accessible in both .xl
 1.  Protocol
 2. Databases and results - Document [_Databases_](databases.csv) - Table with queried databases and results
 3. Codification Framework - Document [_Codification Framework_](https://github.com/CVSpaendonck/ReplicationPackageTest/blob/d8924b50c1c80541a8ccfe91a6feb220c6f5ba7c/Codification%20Framework.pdf)  - Describes the parameters of coding, their descriptions and possible values.
-4. Primary Studies - [_Document PrimaryStudies_](PrimaryStudies.csv) - Complete table of the 26 primary studies included in the research. 
-5. Data Extract - Documents [_PrimaryStudiesDataCoded_](PrimaryStudiesDataCoded.csv) and [_PrimaryStudiesDataNonCoded_](PrimaryStudiesDataNonCoded.csv) - Extracted data for all primary studies.
+4. Primary Studies - [_Document PrimaryStudies_](csv/PrimaryStudies.csv) - Complete table of the 26 primary studies included in the research. 
+5. Data Extract - Documents [_PrimaryStudiesDataCoded_](csv/PrimaryStudiesDataCoded.csv) and [_PrimaryStudiesDataNonCoded_](csv/PrimaryStudiesDataNonCoded.csv) - Extracted data for all primary studies.
 6. Rationale - Documents _Rationale < parametername >_ - Full rationale and classification tables for each parameter. 
 
 
