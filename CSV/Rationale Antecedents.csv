@@ -1,111 +1,0 @@
-﻿"Classication as per Clarke
-and O’Connor (2012)",Code,"Antecedent Name
-Taken from Study","Study
-Code","Denition of Antecedent Taken
-from Study","Relationship Found or
-Argued in Study","Classication Explanation Using Clarke and
-O’Connor (2012)",,
-"Application — Attributes of
-the application(s) currently
-being developed",A-APP,"Agile software
-development",SE3,"The use of user-centric methods
-distinguished by short
-development cycles, continuous
-releases, and requirements that
-evolve rapidly","Related to rational decision
-making","The software development methodology can
-vary from project (application) to project, but is
-generally static across a single application under
-development. Thus, agile software development
-pertains to the current application(s) being
-developed",,
-,,"Level of
-exploration of
-design space
-required",SE26,"The extent to which the design
-space must be explored to design
-a solution for the given problem5",Negatively related to rational decision making,"The extent to which the design space must be
-explored is a feature of the application being
-developed or modied",,
-,,Sprint duration,SE4,"The time frame of the short,
-intense, cycles of development5","Shorter sprint duration
-negatively related to use of team rationality in scrum meetings","The duration of each sprint forms part of the
-overall agile software development methodology,
-which has been classied under “Application”",,
-"Organization — Features of the organization within
-which development is taking place",A-ORG,"Decision
-viewpoints",SE19,"A documentation framework for
-software architecture decisions
-that addresses stakeholder
-concerns",Positively related to rational decision making,"This could be part of process of tools used in
-organization",,
-,,Reection,SE11,"Reections emanating from
-external sources such as feedback","Positively related to
-combined use of intuition
-and rationality","External reection could come from any source
-in the organization including but not limited to
-personnel, management, or a process built into
-tools that are used in the software development
-process",,
-,,"Reective
-questions",SE2,"Challenging the design decisions
-made by others",Positively related to rational decision making,"Reective questions could come from any source
-in the organization including but not limited to
-personnel, management, or a process built into
-tools that are used in the software development
-process",,
-,,,SE12,"Questions that are asked in order
-to challenge design reasoning5",Positively related to rational decision making,"Reective questions could come from any source
-in the organization including but not limited to
-personnel, management, or a process built into
-tools that are used in the software development
-process",,
-"Personnel — Characteristics
-and composition of the
-non-managerial personnel involved in software
-development endeavors",A-PER,Experience,SE2,"Months of professional
-experience in software companies","Positively related to
-rationality in team setting","Classied under “Personnel” in (Clarke and
-O’Connor, 2012)",,
-,,,SE4,"Number of years of software
-development experience5","Positively related to use of
-team rationality in scrum
-meetings","Classied under “Personnel” in (Clarke and
-O’Connor, 2012)",,
-,,"Resource
-availability",SE4,"The availability of key human
-expertise from the team during a
-particular point in the sprint5","Lack of resource availability
-is negatively related to use of
-team rationality in scrum
-meetings","The study frames resource availability as
-availability of team members with specic
-expertise",,
-,,Team climate,SE1,"The combination of attitudes,
-expectations, and norms that are
-perceived by team members in
-order for them to function within
-a specic context","Positively related to team
-rationality","Conceptualized in the study in terms of team
-member beliefs and behaviors",,
-"Requirements —
-Characteristics of the
-business and user
-requirements for the product",A-REQ,Problem structure,"SE22, SE25","The more structured a problem is,
-the easier it is to map elements of
-the problem domain to
-characteristics of a
-problem-solving method5",Different levels dictate which elements of intuition and rationality are used,"The structure of the problem is related to the
-requirements for the product",,
-"Technology — Nature of the technology utilized in
-software development
-endeavors",A-TEC,"Software design
-reasoning card
-game",SE13,"A card game based on the
-identication of assumptions,
-risks, and constrains, as well as
-carrying our trade-offs and
-articulating contexts, problems,
-and solutions",Positively related to rationality,"This could be part of the tools or technologies
-used",,
-5An explicit denition was not provided in the study; this denition is therefore a mere extraction of the operationalization provided,,,,,,,,

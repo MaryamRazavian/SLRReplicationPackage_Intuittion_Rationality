@@ -1,29 +1,0 @@
-﻿Level of Analysis,Code,Study Code,Rationale for Classication
-Individual,IDM,SE5,Studies comments documented by individual developers
-,,SE6,Decision makers were interviewed individually
-,,SE9,Software designers took part in study individually
-,,SE11,Studies the aect of asking reective questions to individual designers
-,,SE12,Studies the aect of asking reective questions to individual designers
-,,SE14,Focuses on design decision making of individual software designers
-,,SE15,UI designs created by individual designers were evaluated on an individual basis
-,,SE18,Software designers were studied individually
-,,SE21,Software architects were surveyed individually
-,,SE22,Software designers were studied individually
-,,SE24,Studies design decision making by interviewing individual designers
-Team,TDM,SE1,Focuses on teams
-,,SE2,A team of software engineering students as novice software architects is studied
-,,SE3,"Investigate the challenges that agile decision characteristics pose for decision
-making for agile teams"
-,,SE4,Investigates decision making in agile teams
-,,SE7,Studies the challenges of shared decision making in agile teams
-,,SE10,Analyzes the process by which development teams create software
-,,SE13,The reasoning game is played in terms of a discussion within the team
-,,SE17,The card game is played in the form of a discussion within a number of teams
-,,SE19,Studies design process at a group level (agile teams)
-,,SE20,Discusses individual and group design decision making
-,,SE26,Decision making was studied at a team level
-Individual & Team,"IDM, TDM",SE8,"This is an explorative study that touches upon both individual and team use of
-intuition and rationality"
-,,SE16,Systematic literature review studies literature on human aspects of architecture decision making on both levels
-,,SE23,This paper proposes to study both individual and team design decision making
-,,SE25,Discusses studies conducted at both the individual and team level
