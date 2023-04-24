@@ -21,7 +21,7 @@ To obtain further information, researchers who are interested may initiate conta
 ## Documentation
 
 
-The replication package comprises multiple files that are accessible in both .xlsx (downloadable) and .csv (online) formats. It is structured as given below, all files are accessible through Github. 
+The replication package comprises multiple files that are accessible in both .xlsx (downloadable) and .csv (previewed online) formats. It is structured as given below, all files are accessible through Github. 
 
 1.  Protocol
 2. Databases and results - [_Databases_](CSV/Databases.csv) - Table with queried databases and results
