@@ -10,7 +10,6 @@ It includes the full Systematic Literature Study Review protocol, database speci
 ## Authors
 This study has been designed, developed, and reported by the following investigators:
 
-##
 Carianne Pretorius (Eindhoven University of Technology, The Netherlands & Tech Academy, Adyen, The Netherlands)
 
 [Maryam Razavian](mailto:m.razavian@tue.nl?subject=ReplicationPackage) (Eindhoven University of Technology, The Netherlands)
@@ -18,7 +17,6 @@ Carianne Pretorius (Eindhoven University of Technology, The Netherlands & Tech A
 [Katrin Eling](mailto:k.eling@tue.nl?subject=ReplicationPackage) (Eindhoven University of Technology, The Netherlands)
 
 [Fred Langerak](mailto:f.langerak@tue.nl?subject=ReplicationPackage)  (Eindhoven University of Technology, The Netherlands)
-##
 
 To obtain further information, researchers who are interested may initiate contact by sending an email to any of the investigators listed above.
 
@@ -33,6 +31,7 @@ The replication package comprises multiple files that are accessible in both .xl
 5. Rationale - [_Rationale < parametername >_](CSV/Rationale) - Full rationale and classification tables for each parameter. 
 
 Note: the corresponding .xlsx files can be found [here](XLSX/).
+
 ## Abstract 
 
 **Abstract:** Context. As society’s reliance on software systems escalates over time, so too does the cost
