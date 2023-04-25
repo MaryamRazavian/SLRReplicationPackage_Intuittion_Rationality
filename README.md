@@ -8,7 +8,6 @@ It includes the full Systematic Literature Study Review protocol, database speci
 
 
 ## Authors
----
 This study has been designed, developed, and reported by the following investigators:
 
 ##
@@ -19,11 +18,11 @@ Carianne Pretorius (Eindhoven University of Technology, The Netherlands & Tech A
 [Katrin Eling](mailto:k.eling@tue.nl?subject=ReplicationPackage) (Eindhoven University of Technology, The Netherlands)
 
 [Fred Langerak](mailto:f.langerak@tue.nl?subject=ReplicationPackage)  (Eindhoven University of Technology, The Netherlands)
+##
 
 To obtain further information, researchers who are interested may initiate contact by sending an email to any of the investigators listed above.
 
 ## Documentation
----
 
 The replication package comprises multiple files that are accessible in both .xlsx (downloadable) and .csv (previewed online) formats. It is structured as given below:
 
