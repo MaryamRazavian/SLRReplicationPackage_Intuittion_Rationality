@@ -1,5 +1,4 @@
-
-## Replication Package - When Rationality Meets Intuition: A Research Agenda for Software Design Decision Making
+# Replication Package - When Rationality Meets Intuition: A Research Agenda for Software Design Decision Making
 
 This repository contains the replication package of the paper titled ”When Rationality Meets Intuition:
 A Research Agenda for Software Design Decision Making”. 
@@ -7,7 +6,7 @@ A Research Agenda for Software Design Decision Making”.
 It includes the full Systematic Literature Study Review protocol, database specific search queries, the codification framework and ultimately the extracted data. All files can be accessed or downloaded through this Github repository. An overview of details regarding the files in this repository can be found under Documentation below. 
 
 
-### Authors
+## Authors
 This study has been designed, developed, and reported by the following investigators:
 
 Carianne Pretorius (Eindhoven University of Technology, The Netherlands & Tech Academy, Adyen, The Netherlands)
@@ -20,7 +19,7 @@ Carianne Pretorius (Eindhoven University of Technology, The Netherlands & Tech A
 
 To obtain further information, researchers who are interested may initiate contact by sending an email to any of the investigators listed above.
 
-### Documentation
+## Documentation
 
 The replication package comprises multiple files that are accessible in both .xlsx (downloadable) and .csv (previewed online) formats. It is structured as given below:
 
@@ -32,7 +31,7 @@ The replication package comprises multiple files that are accessible in both .xl
 
 Note: the corresponding .xlsx files can be found [here](XLSX/).
 
-### Abstract 
+## Abstract 
 
 **Abstract:** Context. As society’s reliance on software systems escalates over time, so too does the cost
 of failure of these systems. Meanwhile, the complexity of software systems, as well as their design, is
