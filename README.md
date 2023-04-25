@@ -8,7 +8,7 @@ A Research Agenda for Software Design Decision Making”.
 ## Authors
 This study has been designed, developed, and reported by the following investigators:
 
-[Carianne Pretorius](mailto:c.pretorius@tue.nl?subject=ReplicationPackage) (Eindhoven University of Technology, The Netherlands)
+[Carianne Pretorius](mailto:c.pretorius@tue.nl?subject=ReplicationPackage) (Eindhoven University of Technology, The Netherlands & Tech Academy, Adyen, The Netherlands)
 
 [Maryam Razavian](mailto:m.razavian@tue.nl?subject=ReplicationPackage) (Eindhoven University of Technology, The Netherlands)
 
