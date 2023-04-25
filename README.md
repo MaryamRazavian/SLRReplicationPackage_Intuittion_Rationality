@@ -23,12 +23,11 @@ To obtain further information, researchers who are interested may initiate conta
 
 The replication package comprises multiple files that are accessible in both .xlsx (downloadable) and .csv (previewed online) formats. It is structured as given below, all files are accessible through Github. 
 
-1.  Protocol
+1.  Protocol & Codification Framework - [_Codification Framework_](Protocol&CodificationFramework.pdf) - Describes search methodology and the parameters for coding, their descriptions and possible values.
 2. Databases and results - [_Databases_](CSV/Databases.csv) - Table with queried databases and results
-3. Codification Framework - [_Codification Framework_](CodificationFramework.pdf)  - Describes the parameters of coding, their descriptions and possible values.
-4. Primary Studies - [_PrimaryStudies_](CSV/PrimaryStudies.csv) - Complete table of the 26 primary studies included in the research. 
-5. Data Extract - [_PrimaryStudiesDataCoded_](CSV/PrimaryStudiesCoded.csv) and [_PrimaryStudiesDataNonCoded_](CSV/PrimaryStudiesNonCoded.csv) - Extracted data for all primary studies.
-6. Rationale - [_Rationale < parametername >_](CSV/Rationale) - Full rationale and classification tables for each parameter. 
+3. Primary Studies - [_PrimaryStudies_](CSV/PrimaryStudies.csv) - Complete table of the 26 primary studies included in the research. 
+4. Data Extract - [_PrimaryStudiesDataCoded_](CSV/PrimaryStudiesCoded.csv) and [_PrimaryStudiesDataNonCoded_](CSV/PrimaryStudiesNonCoded.csv) - Extracted data for all primary studies.
+5. Rationale - [_Rationale < parametername >_](CSV/Rationale) - Full rationale and classification tables for each parameter. 
 
 Note: the corresponding .xlsx files can be found [here](XLSX/).
 ## Abstract 
