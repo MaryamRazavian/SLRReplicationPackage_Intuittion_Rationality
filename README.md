@@ -9,7 +9,9 @@ It includes the full Systematic Literature Study Review protocol, database speci
 
 ## Authors
 This study has been designed, developed, and reported by the following investigators:
+
 ---
+
 
 Carianne Pretorius (Eindhoven University of Technology, The Netherlands & Tech Academy, Adyen, The Netherlands)
 
