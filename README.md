@@ -13,7 +13,7 @@ Carianne Pretorius (Tech Academy, Adyen, The Netherlands)
 
 [Maryam Razavian](mailto:m.razavian@tue.nl?subject=ReplicationPackage) (Eindhoven University of Technology, The Netherlands)
 
-[Katrin Eling] (Wuppertal Institute for Climate, Environment and Energy, Germany)
+Katrin Eling (Wuppertal Institute for Climate, Environment and Energy, Germany)
 
 [Fred Langerak](mailto:f.langerak@tue.nl?subject=ReplicationPackage)  (Eindhoven University of Technology, The Netherlands)
 
