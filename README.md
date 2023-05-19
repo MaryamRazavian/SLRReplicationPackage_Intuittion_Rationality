@@ -9,11 +9,11 @@ It includes the full Systematic Literature Study Review protocol, database speci
 ## Authors
 This study has been designed, developed, and reported by the following investigators:
 
-Carianne Pretorius (Eindhoven University of Technology, The Netherlands & Tech Academy, Adyen, The Netherlands)
+Carianne Pretorius (Tech Academy, Adyen, The Netherlands)
 
 [Maryam Razavian](mailto:m.razavian@tue.nl?subject=ReplicationPackage) (Eindhoven University of Technology, The Netherlands)
 
-[Katrin Eling](mailto:k.eling@tue.nl?subject=ReplicationPackage) (Eindhoven University of Technology, The Netherlands)
+[Katrin Eling] (Wuppertal Institute for Climate, Environment and Energy, Germany)
 
 [Fred Langerak](mailto:f.langerak@tue.nl?subject=ReplicationPackage)  (Eindhoven University of Technology, The Netherlands)
 
