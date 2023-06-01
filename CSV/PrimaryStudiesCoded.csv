@@ -1,17 +1,17 @@
-ï»¿Study Code;Title;Authors of Study;Year;Link;Attributes of Intuition and Rationality from Evans (2008);Intuition Cluster;Rationality Cluster;Element Classification;Decision Types;Performance Category Classification;Level of Analysis;Antecedent;Contextual
+Study Code;Title;Authors of Study;Year;Link;Attributes of Intuition and Rationality from Evans (2008);Intuition Cluster;Rationality Cluster;Element Classification;Decision Types;Performance Category Classification;Level of Analysis;Antecedent;Contextual
 SE1;"Team Climate, Team Cognition, Team Intuition, and Software Quality:
-The Moderating Role of Project Complexity";AÃ§ikgÃ¶z, A., GÃ¼nsel, A., Bayyurt, N. and Kuzey, C.;2014;https://doi.org/10.1007/s10726-013-9367-1;CTR, HIEFF, LOG;;R-CON,  R-FUNC;RAT;;PO;TDM;A-PER;C-APP
+The Moderating Role of Project Complexity";Açikgöz, A., Günsel, A., Bayyurt, N. and Kuzey, C.;2014;https://doi.org/10.1007/s10726-013-9367-1;CTR, HIEFF, LOG;;R-CON,  R-FUNC;RAT;;PO;TDM;A-PER;C-APP
 SE2;Teaching students software architecture decision making;Capilla, R., Zimmermann, O., Carrillo, C. and Astudillo, H.;2020;https://doi.org/10.1007/978-3-030-58923-3_16;CTR, RUL, LOG;;R-CON,  R-FUNC;RAT;PS, SS;DMP, DO, PO;TDM;A-ORG, A-PER;
 SE3;"Examining Decision Characteristics & Challenges for Agile Software
 Development.";Drury-Grogan, M. L., Conboy, K. and Acton, T.;2017;https://doi.org/10.1016/j.jss.2017.06.003;CTR, HIEFF, SEQ;;R-CON,  R-FUNC;RAT;SS;;TDM;A-APP;
-SE4;An Investigation of the Decision-Making Process in Agile Teams.;Drury-Grogan, M. L. and Oâ€™Dwyer, O.;2013;https://doi.org/10.1142/S0219622013400105;CTR, HIEFF, RUL, SEQ;;R-FUNC;RAT;PS, SS;;TDM;A-APP, A-PER;
+SE4;An Investigation of the Decision-Making Process in Agile Teams.;Drury-Grogan, M. L. and O’Dwyer, O.;2013;https://doi.org/10.1142/S0219622013400105;CTR, HIEFF, RUL, SEQ;;R-FUNC;RAT;PS, SS;;TDM;A-APP, A-PER;
 SE5;"Documented Decision-Making Strategies and Decision
 Knowledge in Open Source Projects: An Empirical Study on Firefox Issue Reports";Hesse, T. M., Lerche, V., Seiler, M., Knoess, K. and Paech, B.;2016;https://doi.org/10.1016/j.infsof.2016.06.003;"Intuition: ASO, LOEFF, PRA 
 Rationality:  CTR, HIEFF, RUL";I-CON, I-EVO, I-FUNC;R-CON, R-FUNC;INT, RAT;PS, SS;;IDM;;
 SE6;"Empirical Study of IndustrialDecisionMaking for Software
 Modernizations";Koskinen, J., Lintinen, H., Ahonen, J. J., Tilus, T. and Sivula, H.;2005;https://doi.org/10.1109/ISESE.2005.1541832;ASO;I-FUNC;;INT;;;IDM;;
 SE7;"Challenges of Shared Decision-Making: A Multiple Case Study of Agile Software
-Development.";Moe, N. B., Aurum, A. and DybÃ¥, T.;2012;https://doi.org/10.1016/j.infsof.2011.11.006;;;;;;;TDM;;
+Development.";Moe, N. B., Aurum, A. and Dybå, T.;2012;https://doi.org/10.1016/j.infsof.2011.11.006;;;;;;;TDM;;
 SE8;"An exploratory study of naturalistic decision making in complex software architecture
 environments.";Power, K. and Wirfs-Brock, R.;2019;http://dx.doi.org/10.1007/978-3-030-29983-5_4;ASO; I-EVO, I-FUNC;;INT;DP, PS, SS;;IDM, TDM;;
 SE9;Combined Intuition and Rationality Increases Software Feature Novelty for Female Software Designers.;Pretorius, C., Razavian, M., Eling, K. and Langerak, F.;2021;https://doi.org/10.1109/ms.2020.3043663;"Intuition: RAP, ASO
@@ -27,7 +27,7 @@ SE14;Software Designers, Are You Biased?;Tang, A. ;2011;https://doi.org/10.1145/
 SE15;Design Reasoning Improves Software Design Quality;Tang, A., Tran, M. H., Han, J. and Van Vliet, H.;2008;https://doi.org/10.1007/978-3-540-87879-7_2;CTR, EXP, LANG;;R-CON, R-EVO;RAT;SS;PO;IDM;;C-PER
 SE16;"Human Aspects in Software Architecture Decision Making A
 Literature Review.";Tang, A., Razavian, M., Paech, B. and Hesse, T.-M.;2017;https://doi.org/10.1109/ICSA.2017.15;;;;;;;IDM, TDM;;
-SE17;"Improving Software Design Reasoning â€“ A Reminder Card
+SE17;"Improving Software Design Reasoning – A Reminder Card
 Approach.";Tang, A., Bex, F., Schriek, C. and van der Werf, J. M. E.;2018;https://doi.org/10.1016/j.jss.2018.05.019;CTR, EXP, LANG;;R-CON, R-EVO;RAT;DP, PS, SS;;TDM;;
 SE18;Software Designers Satisfice.;Tang, A. and van Vliet, H.;2012;https://doi.org/10.1007/978-3-319-23727-5_9;CTR;;R-CON;RAT;PS, SS;;IDM;;
 SE19;"Does Decision Documentation Help Junior Designers Rationalize their
