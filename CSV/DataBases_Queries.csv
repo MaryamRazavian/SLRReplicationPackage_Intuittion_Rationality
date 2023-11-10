@@ -1,4 +1,4 @@
-GENERAL QUERY,,
+GENERAL QUERY,,,
 "(""choice"" OR ""decision analysis"" OR ""decision making"" OR ""decision-making"" OR ""idea
 screening"" OR ""information gathering"" OR ""judgement"" OR ""judgment"" OR ""option analysis""
 OR ""trade-off"") AND (""information system analysis"" OR ""information system design""
@@ -8,8 +8,8 @@ system requirements"" OR ""new product"" OR ""product design"" OR ""product deve
 planning"" OR ""software requirements"") AND (""analytic"" OR ""associative"" OR ""automatic""
 OR ""*conscious*"" OR ""dual-process*"" OR ""experiential"" OR ""explicit"" OR ""gut-feel*"" OR
 ""heuristic"" OR ""holistic"" OR ""implicit"" OR ""intuit*"" OR ""naturalistic"" OR ""*rational*""
-OR ""reasoning"" OR ""reflect*"" OR ""reflex*"" OR ""system 1"" OR ""system 2"" OR ""tacit"")",,
-DATABASE-SPECIFIC QUERY,DATABASE,NUMBER OF RESULTS
+OR ""reasoning"" OR ""reflect*"" OR ""reflex*"" OR ""system 1"" OR ""system 2"" OR ""tacit"")",,,
+DATABASE-SPECIFIC QUERY,DATABASE,URL,NUMBER OF RESULTS
 "recordAbstract:((""choice"" OR ""decision analysis"" OR ""decision making"" OR ""decisionmaking""
 OR ""idea screening"" OR ""information gathering"" OR ""judgement"" OR ""judgment"" OR
 ""option analysis"" OR ""trade-off"") AND (""information system analysis"" OR ""information
@@ -22,10 +22,10 @@ OR ""automatic"" OR ""*conscious*"" OR ""dual-process*"" OR ""experiential"" OR 
 OR ""*rational*"" OR ""reasoning"" OR ""reflect*"" OR ""reflex*"" OR ""system 1"" OR ""system 2""
 OR ""tacit""))","ACM
 Digital
-Library",145
+Library",https://dl.acm.org/,145
 "(""Abstract"":""decision making"") AND (""Abstract"":intuit* OR ""Abstract"":rational* OR
 ""Abstract"":""system 1"" OR ""Abstract"":""system 2"") AND (""Abstract"":software OR ""Abstract"":
-product OR ""Abstract"":""information system"")",IEEE Explore Digital Library,132
+product OR ""Abstract"":""information system"")",IEEE Explore Digital Library,https://ieeexplore.ieee.org/,132
 "ABSTRACT((""choice"" OR ""decision analysis"" OR ""decision making"" OR ""decision-making"" OR
 ""idea screening"" OR ""information gathering"" OR ""judgement"" OR ""judgment"" OR ""option
 analysis"" OR ""trade-off"") AND (""information system analysis"" OR ""information system design""
@@ -35,7 +35,7 @@ OR ""software architecture"" OR ""software design"" OR ""software development"" 
 planning"" OR ""software requirements"") AND (""analytic"" OR ""associative"" OR ""automatic""
 OR ""*conscious*"" OR ""dual-process*"" OR ""experiential"" OR ""explicit"" OR ""gut-feel*"" OR
 ""heuristic"" OR ""holistic"" OR ""implicit"" OR ""intuit*"" OR ""naturalistic"" OR ""*rational*""
-OR ""reasoning"" OR ""reflect*"" OR ""reflex*"" OR ""system 1"" OR ""system 2"" OR ""tacit""))",Science Direct,296
+OR ""reasoning"" OR ""reflect*"" OR ""reflex*"" OR ""system 1"" OR ""system 2"" OR ""tacit""))",Science Direct,https://www.sciencedirect.com/,296
 "(ABS(""choice"") OR ABS(""decision analysis"") OR ABS(""decision making"") OR ABS(""decisionmaking"")
 OR ABS(""idea screening"") OR ABS(""information gathering"") OR ABS(""judgement"")
 OR ABS(""judgment"") OR ABS(""option analysis"") OR ABS(""trade-off"")) AND (ABS(""information
@@ -48,7 +48,7 @@ ABS(""associative"") OR ABS(""automatic"") OR ABS(""*conscious*"") OR ABS(""dual
 OR ABS(""experiential"") OR ABS(""explicit"") OR ABS(""gut-feel*"") OR ABS(""heuristic"")
 OR ABS(""holistic"") OR ABS(""implicit"") OR ABS(""intuit*"") OR ABS(""naturalistic"")
 OR ABS(""*rational*"") OR ABS(""reasoning"") OR ABS(""reflect*"") OR ABS(""reflex*"") OR
-ABS(""system 1"") OR ABS(""system 2"") OR ABS(""tacit""))",SCOPUS,1751
+ABS(""system 1"") OR ABS(""system 2"") OR ABS(""tacit""))",SCOPUS,https://www.scopus.com/,1751
 "(ABSTRACT(""choice"") OR ABSTRACT(""decision analysis"") OR ABSTRACT(""decision making"")
 OR ABSTRACT(""decision-making"") OR ABSTRACT(""idea screening"") OR ABSTRACT(""information
 gathering"") OR ABSTRACT(""judgement"") OR ABSTRACT(""judgment"") OR ABSTRACT(""option analysis"")
@@ -64,7 +64,7 @@ OR ABSTRACT(""experiential"") OR ABSTRACT(""explicit"") OR ABSTRACT(""gut-feel*"
 ABSTRACT(""heuristic"") OR ABSTRACT(""holistic"") OR ABSTRACT(""implicit"") OR ABSTRACT(""
 intuit*"") OR ABSTRACT(""naturalistic"") OR ABSTRACT(""*rational*"") OR ABSTRACT(""
 reasoning"") OR ABSTRACT(""reflect*"") OR ABSTRACT(""reflex*"") OR ABSTRACT(""system
-1"") OR ABSTRACT(""system 2"") OR ABSTRACT(""tacit""))",SpringerLink,81
+1"") OR ABSTRACT(""system 2"") OR ABSTRACT(""tacit""))",SpringerLink,https://link.springer.com/,81
 "TS=((""choice"" OR ""decision analysis"" OR ""decision making"" OR ""decision-making"" OR ""idea
 screening"" OR ""information gathering"" OR ""judgement"" OR ""judgment"" OR ""option analysis""
 OR ""trade-off"") AND (""information system analysis"" OR ""information system design""
@@ -74,5 +74,5 @@ system requirements"" OR ""new product"" OR ""product design"" OR ""product deve
 planning"" OR ""software requirements"") AND (""analytic"" OR ""associative"" OR ""automatic""
 OR ""*conscious*"" OR ""dual-process*"" OR ""experiential"" OR ""explicit"" OR ""gut-feel*"" OR
 ""heuristic"" OR ""holistic"" OR ""implicit"" OR ""intuit*"" OR ""naturalistic"" OR ""*rational*""
-OR ""reasoning"" OR ""reflect*"" OR ""reflex*"" OR ""system 1"" OR ""system 2"" OR ""tacit""))",Web of Science,1303
-,Total,5297
+OR ""reasoning"" OR ""reflect*"" OR ""reflex*"" OR ""system 1"" OR ""system 2"" OR ""tacit""))",Web of Science,https://www.webofscience.com/ ,1303
+,Total,,5297
